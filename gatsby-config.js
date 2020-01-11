@@ -11,7 +11,6 @@ module.exports = {
           theme_color: `#a2466c`,
           display: `standalone`,
           icon: `src/images/dice-icon.png`,
-          pathPrefix: "/sigma0wl.github.io"
         },
       },
     ],
